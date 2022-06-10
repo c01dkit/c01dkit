@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ZJU NESA Reasearch Lab
-- 🌱 I’m currently learning system & binary security
+- 👨‍🎓 I'm currently a student in ZJU
+- 🌱 I'm currently learning system & binary security
 - 📫 How to reach me: contact@c01dkit.com
 
 ### Github Statistics
@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c01dkit&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+- 🔭 I’m currently working on ZJU NESA Reasearch Lab
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
