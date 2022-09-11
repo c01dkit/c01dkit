@@ -18,6 +18,3 @@
 - ⚡ Fun fact: ...
 -->
 
-### More Information
-
-[Welcome to my personal website ;) ](https://www.c01dkit.com)
