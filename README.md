@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💦 I'm currently studying computer sicence & technology at Zhejiang University
+- 💦 I'm currently studying computer sicence & technology in Zhejiang University
 - 🌱 I'm currently learning system & binary security
 - 📫 How to reach me: contact@c01dkit.com
 
