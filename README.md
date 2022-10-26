@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💦 I'm a student in ZJU
+- 💦 I'm currently studying computer sicence & technology at Zhejiang University
 - 🌱 I'm currently learning system & binary security
 - 📫 How to reach me: contact@c01dkit.com
 
