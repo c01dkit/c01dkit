@@ -2,7 +2,7 @@
 
 - 💦 I'm currently studying Computer Sicence & Technology in Zhejiang University
 - 🌱 I'm currently learning system & binary security
-- 📫 How to reach me: contact@c01dkit.com
+- 📫 How to reach me: Y29udGFjdEBjMDFka2l0LmNvbQ==
 
 ### Github Statistics
 
