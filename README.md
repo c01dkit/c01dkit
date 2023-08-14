@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 💦 I'm currently studying Computer Sicence & Technology in Zhejiang University
-- 🌱 I'm currently learning system & binary security
+- 💦 Currently studying Computer Sicence & Technology in Zhejiang University
+- 🌱 Currently learning system & binary security
+- ⚡ Network protocols and implementations simply catch me
 - 📫 How to reach me: Y29udGFjdEBjMDFka2l0LmNvbQ==
 
 ### Github Statistics
