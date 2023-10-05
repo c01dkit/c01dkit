@@ -7,11 +7,7 @@
 
 ### Github Statistics
 
-![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 - 👯 I’m looking to collaborate on ...
