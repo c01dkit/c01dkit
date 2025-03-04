@@ -2,7 +2,7 @@
 
 - 💦 Currently studying Computer Sicence & Technology in Zhejiang University
 - 🌱 Currently learning system & binary security
-- ⚡ Network protocols and implementations simply catch me
+- ⚡ Web apps development simply catch me
 - 📫 How to reach me: Y29udGFjdEBjMDFka2l0LmNvbQ==
 
 ### My Websites
