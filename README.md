@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/Furry-%E6%9F%B7%E6%95%94-blue?logo=furrynetwork)](https://github.com/c01dkit) ![](https://komarev.com/ghpvc/?username=c01dkit)
+
 ### Hi there 👋
 
 - 💦 Currently studying Computer Sicence & Technology in Zhejiang University
@@ -8,6 +10,8 @@
 ### My Websites
 
 [Sec: A collection of top-tier publications, supporting keyword search](https://sec.c01dkit.com/)
+
+[Tech blog: My technical notebook](https://tech.c01dkit.com/)
 
 ### Github Statistics
 
