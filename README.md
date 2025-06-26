@@ -5,9 +5,6 @@
 - 😇 Currently working on Computer Sicence & Technology in Zhejiang University
 - 🌱 Currently learning software security
 - 🌐 Developing web apps simply catches me
-- 🎮 Genshin Impact is a good way to relax
-- 😋 Open to meeting new people over meals and enjoy eating out with others
-- 🐻 Furry fandom and bears are cute to me
 - 📫 How to reach me: Y29udGFjdEBjMDFka2l0LmNvbQ==
 
 
