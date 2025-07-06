@@ -14,8 +14,11 @@
 
 [Tech blog: My technical notebook](https://tech.c01dkit.com/)
 
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,php,cmake,docker,linux,mysql,flask,fastapi,git,js,html,css,jquery,react,vue,vite,nginx)](https://skillicons.dev)
+
 ### Github Statistics
 
 ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 
