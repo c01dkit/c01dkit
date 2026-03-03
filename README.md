@@ -5,6 +5,7 @@
 - 😇 Currently working on Computer Sicence & Technology in Zhejiang University
 - 🌱 Currently learning software security
 - 🌐 Developing web apps simply catches me
+- 🔠 Puzzle hunt lover
 - 📫 How to reach me: Y29udGFjdEBjMDFka2l0LmNvbQ==
 
 
@@ -13,6 +14,8 @@
 [Sec: A collection of top-tier publications, supporting keyword search](https://sec.c01dkit.com/)
 
 [Tech blog: My technical notebook](https://tech.c01dkit.com/)
+
+[Puzzle Hunt All-in-One: A collection of puzzle hunts over the world, as well as tools and write-ups](https://puzzlehunt.c01dkit.com/)
 
 ### My Skills
 
