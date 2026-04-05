@@ -17,6 +17,8 @@
 
 [Puzzle Hunt All-in-One: A collection of puzzle hunts over the world, as well as tools and write-ups](https://puzzlehunt.c01dkit.com/)
 
+[Lyceum: A school that spans the ages of AI. Start from zero and learn the complete history of artificial intelligence through interactive classroom dialog.](https://lyceum.c01dkit.com/)
+
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,php,cmake,docker,linux,mysql,flask,fastapi,git,js,html,css,jquery,react,vue,vite,nginx)](https://skillicons.dev)
