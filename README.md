@@ -15,9 +15,11 @@
 
 [Tech blog: My technical notebook](https://tech.c01dkit.com/)
 
-[Puzzle Hunt All-in-One: A collection of puzzle hunts over the world, as well as tools and write-ups](https://puzzlehunt.c01dkit.com/)
+[Puzzle Hunt All-in-One: A collection of puzzle hunts all over the world, as well as tools and write-ups](https://puzzlehunt.c01dkit.com/)
 
-[Lyceum: Start from zero and learn the complete history of artificial intelligence through interactive classroom dialog.](https://lyceum.c01dkit.com/)
+[Lyceum: Start from zero and learn the complete history of artificial intelligence through interactive classroom dialog](https://lyceum.c01dkit.com/)
+
+[Kernel Composite: Learn key Linux subsystem design philosophy with the help of LLMs ](https://kernel.tools.c01dkit.com/) (please contact me via email for token auth)
 
 ### My Skills
 
