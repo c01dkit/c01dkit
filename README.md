@@ -19,7 +19,7 @@
 
 [Lyceum: Start from zero and learn the complete history of artificial intelligence through interactive classroom dialog](https://lyceum.c01dkit.com/)
 
-[Kernel Composite: Learn key Linux subsystem design philosophy with the help of LLMs ](https://kernel.tools.c01dkit.com/) (please contact me via email for token auth)
+[Kernel Composite: Learn key Linux subsystem design philosophy with the help of LLMs ](https://kernel.c01dkit.com/) (please contact me via email for token auth)
 
 ### My Skills
 
