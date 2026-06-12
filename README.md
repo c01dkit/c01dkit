@@ -23,6 +23,8 @@
 
 [VibeLand: In the vibe-coding era, bring all your scattered projects back into one place](https://vibe-land.c01dkit.com)
 
+[AgentDesignAtlas: An interactive atlas that takes apart 50 open-source AI agent frameworks](http://agent-design-atlas.c01dkit.com/)
+
 ### My Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,php,cmake,docker,linux,mysql,flask,fastapi,git,js,html,css,jquery,react,vue,vite,nginx)](https://skillicons.dev)
