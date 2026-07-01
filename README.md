@@ -11,7 +11,7 @@
 
 ### My Websites
 
-[Sec: A collection of top-tier publications, supporting keyword search](https://sec.c01dkit.com/)
+[Sec Papers: A collection of top-tier publications](https://sec.c01dkit.com/)
 
 [Tech blog: My technical notebook](https://tech.c01dkit.com/)
 
