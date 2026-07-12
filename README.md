@@ -15,7 +15,7 @@
 
 [Tech blog: My technical notebook](https://tech.c01dkit.com/)
 
-[Puzzle Hunt All-in-One: A collection of puzzle hunts all over the world, as well as tools and write-ups](https://puzzlehunt.c01dkit.com/)
+[Puzzle Hunt All-in-One: A collection of puzzle hunts all over the world, as well as tools and write-ups](https://puzzlehunt.edu.estate/)
 
 [Lyceum: Start from zero and learn the complete history of artificial intelligence through interactive classroom dialog](https://lyceum.c01dkit.com/)
 
@@ -23,7 +23,7 @@
 
 [VibeLand: In the vibe-coding era, bring all your scattered projects back into one place](https://vibe-land.c01dkit.com)
 
-[AgentDesignAtlas: An interactive atlas that takes apart 50 open-source AI agent frameworks](http://agent-design-atlas.c01dkit.com/)
+[AgentDesignAtlas: An interactive atlas that takes apart 50 open-source AI agent frameworks](https://agent.edu.estate/)
 
 ### My Technical Skills
 
