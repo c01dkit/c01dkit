@@ -32,3 +32,8 @@
 
 ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/c01dkit/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+---
+
+<div align="center">
+<sub>You can support me at <a href="https://afdian.com/a/c01dkit" target="_blank">afdian☕.</a></sub>
+</div>
