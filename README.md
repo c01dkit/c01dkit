@@ -35,5 +35,5 @@
 ---
 
 <div align="center">
-<sub>You can support me at <a href="https://afdian.com/a/c01dkit" target="_blank">afdian☕.</a></sub>
+<sub>You can support me at <a href="https://pay.ldxp.cn/item/qd6781" target="_blank">ldxp🍵</a> or <a href="https://afdian.com/a/c01dkit" target="_blank">afdian🍵</a>. Wish you a nice day!</sub>
 </div>
